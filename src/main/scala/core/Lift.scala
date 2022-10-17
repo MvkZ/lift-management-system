@@ -93,7 +93,7 @@ class Lift extends LiftClass with Runnable {
         liftState.liftDirection.direction = Direction.idle
       })
     }
-    println("Lift " + id + ": " + timeTaken + "seconds")
+    println("Lift " + id + ": " + timeTaken + " seconds")
   }
 
   /**
@@ -157,7 +157,7 @@ class Lift extends LiftClass with Runnable {
         liftState.liftDirection.direction = Direction.idle
       })
     }
-    println("Lift " + id + ": " + timeTaken + "seconds")
+    println("Lift " + id + ": " + timeTaken + " seconds")
   }
 
   /**

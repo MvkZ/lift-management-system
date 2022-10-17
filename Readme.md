@@ -65,10 +65,10 @@ Lift 1 ---- > 4(CLOSE)Lift 2 ---- > 3(CLOSE)
 Lift 1 ---- > 5(CLOSE)Lift 2 ---- > 2(CLOSE)
 Lift 1 ---- > 6(OPEN)Lift 2 ---- > 1(CLOSE)
 Lift 1 ---- > 6(OPEN)Lift 2 ---- > 0(OPEN)
-Lift 2: 8
+Lift 2: 8 seconds
 Lift 1 ---- > 6(CLOSE)Lift 2 ---- > 0(CLOSE)
 Lift 1 ---- > 7(CLOSE)Lift 2 ---- > 0(CLOSE)
 Lift 1 ---- > 8(CLOSE)Lift 2 ---- > 0(CLOSE)
 Lift 1 ---- > 9(OPEN)Lift 2 ---- > 0(CLOSE)
-Lift 1: 11
+Lift 1: 11 seconds
 ```
